@@ -4,7 +4,7 @@ Created on Tue Sep 24 12:37:03 2019
 
 @author: Josh Stiller
 """
-#Josh Stiller CSC 352-A Dr. Kovach 9/24/19
+#Josh Stiller 
 #This is my first class which is JWASAccount this is where a lot of reference is made and is overall a very important class
 class JWASAccount(object): 
 
